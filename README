@@ -1,0 +1,9 @@
+This is a testing repository for downloading the api file. It shows
+how to use the downloader apis. We eventually will add this to the unit_tests
+Call are made to the api and files downloaded from the server.
+
+From the command line run:
+
+node app.js
+
+
